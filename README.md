@@ -72,4 +72,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+
 ![](https://komarev.com/ghpvc/?username=majidali129&color=green)
